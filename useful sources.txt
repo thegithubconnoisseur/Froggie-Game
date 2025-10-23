@@ -1,0 +1,15 @@
+#pygame commands and how to use the library
+https://www.pygame.org/docs/
+
+#pygame sprite-specific commands
+https://www.pygame.org/docs/ref/sprite.html?highlight=group#pygame.sprite.Group
+
+#sys commands and how they're used
+https://docs.python.org/3/library/sys.html
+
+# this is the video for the joystick control
+https://youtu.be/ax3E0pjXVKs
+
+
+# video for how to make a main menu in pygame
+https://www.youtube.com/watch?v=GMBqjxcKogA
